@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 #
 # Verus (VRSC) CPU miner launcher.
 #
